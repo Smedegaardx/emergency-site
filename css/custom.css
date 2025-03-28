@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Rubik";
+  src: url(/fonts/Rubik-VariableFont_wght.ttf);
+}
+
 :root {
   /* Colours */
   --primary-bg-color: #e8ebee; /* used */
@@ -28,10 +33,10 @@
   /* From styletile */
 
   /* Fonts */
-  --logotype-font: "Roboto", sans-serif;
-  --headline-font: "Roboto", sans-serif;
-  --body-font: "Roboto", sans-serif;
-  --link-font: "Calibri", sans-serif;
+  --logotype-font: "Rubik", sans-serif;
+  --headline-font: "Rubik", sans-serif;
+  --body-font: "Rubik", sans-serif;
+  --link-font: "Rubik", sans-serif;
 
   /* Text sizes */
   --logotype-size: 1.5rem;
