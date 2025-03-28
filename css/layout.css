@@ -11,7 +11,7 @@ main {
   row-gap: 1rem;
 }
 main > *:not(:first-child) {
-  margin: 0 1rem;
+  margin: 0 1rem 80px;
 }
 main {
   grid-template-rows: min-content min-content 1fr min-content;
@@ -76,6 +76,7 @@ footer ul {
   h1 {
     grid-column: 1 / -1;
   }
+
   footer {
     grid-template-columns: 1fr 1fr 1fr;
   }
