@@ -6,6 +6,10 @@
   background-color: var(--info-background-color);
   padding: 40px 0;
 }
+.info-graphic svg{
+  max-width: 100%;
+  height: auto;
+}
 .info-text h2 {
   line-height: 3rem;
   text-align: center;
