@@ -38,3 +38,11 @@
 .info-text span{
   font-weight: 700;
 }
+
+.hide{
+ display: none;
+}
+
+.pyramidhide1, .pyramidhide2, .pyramidhide3{
+  display: none;
+}
