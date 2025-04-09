@@ -46,3 +46,15 @@
 .pyramidhide1, .pyramidhide2, .pyramidhide3{
   display: none;
 }
+
+h2 span{
+  font-size: 60px;
+}
+
+.svghide{
+visibility: hidden;
+}
+
+.info-box ul{
+  margin: 0.5rem 2rem;
+}
